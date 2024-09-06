@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYLISTS/ARRAYLISTS.iml" filepath="$PROJECT_DIR$/ARRAYLISTS/ARRAYLISTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/ARRAYSPLATFORM.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/ARRAYSPLATFORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA PROGRAMS.iml" filepath="$PROJECT_DIR$/.idea/DSA PROGRAMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/HACKERANK/HACKERANK.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/HACKERANK/HACKERANK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/LEETCODE/LEETCODE.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/LEETCODE/LEETCODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/LOOPS/LOOPS.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/LOOPS/LOOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/Patterns/Patterns.iml" />
     </modules>
   </component>
 </project>
