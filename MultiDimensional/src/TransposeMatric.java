@@ -2,7 +2,7 @@
 
 public class TransposeMatric {
     public static void main(String[] args) {
-        int arr[][]={{10, 9}, {7, 5}, {6, 1}};
+        int arr[][]={{10, 9,15}, {7, 5,19}, {6, 1,11}};
 
         System.out.println("ORIGINAL ARRAY : ");
         for (int i = 0; i <arr.length ; i++) {
