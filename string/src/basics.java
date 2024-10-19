@@ -10,9 +10,11 @@ public class basics {
 //String x="ABHAY";
 //        System.out.println(x);
 //Take input
-        Scanner sc=new Scanner(System.in);
-        System.out.println("ENTER YOUR NAME");
-        String str=sc.next();
-        System.out.println(str);
+//        Scanner sc=new Scanner(System.in);
+//        System.out.println("ENTER YOUR NAME");
+//        String str=sc.next();
+//        System.out.println(str);
+
+
     }
 }
