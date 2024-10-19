@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/LOOPS/LOOPS.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/LOOPS/LOOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiDimensional/MultiDimensional.iml" filepath="$PROJECT_DIR$/MultiDimensional/MultiDimensional.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYSPLATFORM/HACKERANK/STRING/STRING.iml" filepath="$PROJECT_DIR$/ARRAYSPLATFORM/HACKERANK/STRING/STRING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
     </modules>
   </component>
 </project>
