@@ -1,5 +1,5 @@
 
-public class maxsubarray {
+public class maxsubarraybrute {
     public static void printSubarray(int numbers[]) {
 int currentsum=0;
 int maxSum=Integer.MIN_VALUE;
